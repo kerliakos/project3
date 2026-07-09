@@ -35,7 +35,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <a href="https://github.com/kerliakos/reactproject3" target="_blank">
+        <a href="https://github.com/kerliakos/project3" target="_blank">
           app by kerliakos @ github
         </a>
         <br />
